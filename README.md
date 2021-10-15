@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a Natural Language Processing / Computational Linguistics student in 2nd year master's degree at the Université de Paris. 
+My main interests include speech recognition, speech synthesis, spoken language processing and signal processing... overral, I like to work with speech things. 
+Check out my [resume](file:///Users/julesCauzinille/Desktop/important./CV/CV%20-%20CAUZINILLE%20JULES.pdf) for more informations.
+
+Fluent in french, italian, english and spanish (I'm a professional freelance translator) 
+I like coding in Python but I know a bit of Java as well
+
+Currently looking for an internship in SLP 
+
 <!--
 **jcauzi/jcauzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
