@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I'm a Natural Language Processing / Computational Linguistics student in 2nd year master's degree at the Université de Paris. 
-My main interests include speech recognition, speech synthesis, spoken language processing and signal processing... overral, I like to work with speech things. 
-Check out my [resume](file:///Users/julesCauzinille/Desktop/important./CV/CV%20-%20CAUZINILLE%20JULES.pdf) for more informations.
+I'm a P.h.D student at the Institute for Language Communication and the Brain in Aix-Marseille University. 
+🔭 My work lies somewhere between computational bioacoustics and speech processing. It consists in trying to transfer knowledge from speech-based deep learning models to primate vocalizations. This is mostly aimed at :
+  - building efficient bioacoustic tools for biodiversity monitoring
+  - partaking in explainability research for large deep learning models
+  - studying the origins of language from a deep learning perspective
 
-Fluent in french, italian, english and spanish (I'm a professional freelance translator) 
-I like coding in Python but I know a bit of Java as well
-
-Currently looking for a PhD on multimodal speech and emotion processing.
+My main interests include the evolution of vocal communication in humans and non-humans, self-supervised deep learning on acoustic data, monkeys 🦧 and music stuff 🥁
 
 <!--
 **jcauzi/jcauzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
